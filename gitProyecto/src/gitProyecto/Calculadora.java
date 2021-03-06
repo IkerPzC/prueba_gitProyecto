@@ -11,6 +11,9 @@ public class Calculadora {
 	public int sumar(){
 		return num1+num2;
 	}
+	public int restar(){
+		return num1-num2;
+	}
 	
 //	public static void main(String[] args) {
 //		Calculadora c=new Calculadora(1,2);
