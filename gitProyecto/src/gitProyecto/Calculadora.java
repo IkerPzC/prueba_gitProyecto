@@ -23,6 +23,9 @@ public class Calculadora {
 	public int golosina(){
 		return num1+num2-num1*2;
 	}
+	public int chocolate(){
+		return 5;
+	}
 	
 //	public static void main(String[] args) {
 //		Calculadora c=new Calculadora(1,2);
