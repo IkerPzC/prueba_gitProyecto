@@ -20,7 +20,9 @@ public class Calculadora {
 	public int multiplicar(){
 		return num1*num2;
 	}
-
+	public int golosina(){
+		return num1+num2-num1*2;
+	}
 	
 //	public static void main(String[] args) {
 //		Calculadora c=new Calculadora(1,2);
